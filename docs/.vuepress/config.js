@@ -3,10 +3,10 @@ module.exports = {
   description: 'Free Vue Tutorials!',
   themeConfig: {
     nav: [
-      {
-        text: 'Podcast',
-        link: 'https://www.vuetifullife.com/podcast'
-      },
+      // {
+      //   text: 'Podcast',
+      //   link: 'https://www.vuetifullife.com/podcast'
+      // },
       {
         text: 'Social',
         items: [
@@ -29,14 +29,14 @@ module.exports = {
     ],
     sidebar: [
       // Welcome
-      '/welcome.md',
+      // '/welcome.md',
       // Intermediate
       {
         title: 'Intermediate',
         collapsable: true,
         children: [
           '/intermediate/patterns/',
-          '/intermediate/quasar/',
+          // '/intermediate/quasar/',
         ]
       },
       // Advanced
@@ -44,7 +44,8 @@ module.exports = {
         title: 'Advanced',
         collapsable: true,
         children: [
-          '/advanced/vuex-orm/'
+          '/advanced/'
+          // '/advanced/vuex-orm/'
         ]
       },
       // Tooling
@@ -54,8 +55,8 @@ module.exports = {
         children: [
           '/tooling/vs-code/',
         ]
-      },
-      '/podcast.md'
+      }
+      // '/podcast.md'
     ],
   },
   // configureWebpack: {
