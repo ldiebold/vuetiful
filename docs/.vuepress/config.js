@@ -30,36 +30,29 @@ module.exports = {
     sidebar: [
       // Welcome
       '/welcome.md',
+      // Intermediate
       {
-        // Tutorials
-        title: 'Tutorials',
+        title: 'Intermediate',
         collapsable: true,
         children: [
-          // Intermediate
-          {
-            title: 'Intermediate',
-            collapsable: true,
-            children: [
-              '/intermediate/patterns/',
-              '/intermediate/quasar/',
-            ]
-          },
-          // Advanced
-          {
-            title: 'Advanced',
-            collapsable: true,
-            children: [
-              '/advanced/vuex-orm/'
-            ]
-          },
-          // Tooling
-          {
-            title: 'Tooling',
-            collapsable: true,
-            children: [
-              '/tooling/vs-code/',
-            ]
-          }
+          '/intermediate/patterns/',
+          '/intermediate/quasar/',
+        ]
+      },
+      // Advanced
+      {
+        title: 'Advanced',
+        collapsable: true,
+        children: [
+          '/advanced/vuex-orm/'
+        ]
+      },
+      // Tooling
+      {
+        title: 'Tooling',
+        collapsable: true,
+        children: [
+          '/tooling/vs-code/',
         ]
       },
       '/podcast.md'
