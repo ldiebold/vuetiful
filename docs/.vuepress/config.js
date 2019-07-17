@@ -44,8 +44,8 @@ module.exports = {
         title: 'Advanced',
         collapsable: true,
         children: [
-          '/advanced/'
-          // '/advanced/vuex-orm/'
+          '/advanced/',
+          '/advanced/vuex-orm/'
         ]
       },
       // Tooling
