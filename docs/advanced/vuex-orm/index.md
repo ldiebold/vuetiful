@@ -24,7 +24,7 @@ Now that we know how to register vuex-orm classes, let's go ahead and define our
 
 ## Relationships: One To Many
 
-In this video, we'll create two **one to many** relationship.
+In this video, we'll create two **one to many** relationships.
 
 - A **User** has many **Lists**
 - A **List** has many **Items**
