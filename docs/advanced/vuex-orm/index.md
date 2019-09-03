@@ -90,3 +90,27 @@ That was a test! Did you pass?
 Now let's get to work. Watch the video below, level up and keep at it!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTgp2y58iV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Relationships: One To One Polymorphic (explanation)
+
+Things can start to feel a little complicated when **polymorphism** is introduced into the mix.
+
+But like most things, when you take it **one step at a time**, it's really quite simple at its core!
+
+So let's explore the **one to one polymorphic relationship** and remember...
+
+*Use that pause button!*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BbaFw7CjJZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Relationships: One To One Polymorphic
+
+I have good news...
+
+You're ready to explore **one to one polymorphic relationships** in vuex-orm!!!
+
+(this is the part where you cheer with excitement) :tada:
+
+So grab a coffee, crack your fingers and let's **dive. right. in!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sWo4df-jNlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
