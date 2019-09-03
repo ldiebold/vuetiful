@@ -6,7 +6,7 @@
 
 You might be surprised by how much value vuex-orm gives us out of the box!
 
-Here's a quick runthrough the vuex-orm API.
+Here's a quick run-through the vuex-orm API.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D0bOiA7uxZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
