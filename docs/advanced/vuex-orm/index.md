@@ -61,7 +61,7 @@ It is the **Has Many Through** relationship :heart:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-rpc8BJGuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Relationships: Many To Many (explanation)
+## Relationships: Many To Many (EXPLAINED)
 
 Time to spice things up a little bit! For the **Many To Many** relationship, we're gonna need what's called a **pivot table**.
 
@@ -91,7 +91,7 @@ Now let's get to work. Watch the video below, level up and keep at it!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTgp2y58iV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Relationships: One To One Polymorphic (explanation)
+## Relationships: One To One Polymorphic (EXPLAINED)
 
 Things can start to feel a little complicated when **polymorphism** is introduced into the mix.
 
@@ -114,3 +114,11 @@ You're ready to explore **one to one polymorphic relationships** in vuex-orm!!!
 So grab a coffee, crack your fingers and let's **dive. right. in!**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sWo4df-jNlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Relationships: One To Many Polymorphic (EXPLAINED)
+
+How many ones could a **one many** one if a **one many** could **many one**?
+
+I don't know :flushed:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fbVR48YvJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
