@@ -122,3 +122,99 @@ How many ones could a **one many** one if a **one many** could **many one**?
 I don't know :flushed:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fbVR48YvJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Relationships: One To Many Polymorphic
+
+Close your eyes and take a *nice. deep. breath.*
+
+Now put your hand on your mouse, and move the pointer to the video below.
+
+click on the **play** icon.
+
+Now stay calm, and learn yourself some **One To Many Polymorphic Relationship** skills :pray:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpwTPlzHn7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Relationships: Many To Many Polymorphic (EXPLAINED)
+
+What's batman got to do with a **Many To Many Polymorphic** Relationship?
+
+Honestly... not a lot.
+
+**YOU GOT THIS!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lN4SjTOzlYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Relationships: Many To Many Polymorphic
+
+You now have all the foundations you need to tackle **Many To Many Polymorphic** Relationships!
+
+**YOU GOT THIS!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9PngJj_rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Accessors and Mutators
+
+Sometimes, you're data is ungly or not melding like it should.
+
+Data can be persnickety like that sometimes.
+
+Eh, no worries. We'll tame it with some **Accessors** and **Mutators**!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8qzZ06DLns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Advanced Queries
+
+You think you're sooo smart with your accessors, and your mutators, and your relationships and your pretty face!
+
+Alright hot shot... let's see how you handle **Advanced Queries!!!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RbggymeACFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Advanced Relationship Queries (SETUP)
+
+Look. You can't go around **making advanced relationship queries** when you don't even have any data!
+That's. Just. Silly.
+
+So let's add some data in this video :smile:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9m8R1SBDkDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Resources
+  - [Gist with JSON data and updated models](https://gist.github.com/ldiebold/7a1d15ae4ed0e7cbeff1f4bc15ee364a)
+
+## Advanced Relationship Queries
+
+Boooo! You'll never get through this video.
+
+It's the hardest one yet.
+
+... just kidding, *I BELIEVE IN YOU!*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYSX6dIub0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Single Table Inheritance EXPLAINED
+
+What do you get, when you cross a **Single** salami and a **Table**?
+
+...
+
+The beginnings of a terrible joke.
+
+Here's a video on **Single Table Inheritance**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvMgR8JgKwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Single Table Inheritance
+
+**Single Table Inheritance** is one of my favourite features of vuex-orm because...
+  - It **cleans up your code** so you don't end up having to repeat yourself
+  - Allows **different models** to reference **the same table**
+  - It makes your code a **$h^@&!** load easier to maintain **at scale**!
+
+So dive in to the video below (and push through the part about **cycles**)... it will be worth it!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yoKq3j-pCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### resources
+[Michel Weststrate's article on fixing circular dependencies](https://medium.com/visual-development/how-to-fix-nasty-circular-dependency-issues-once-and-for-all-in-javascript-typescript-a04c987cf0de)
