@@ -3,10 +3,10 @@ module.exports = {
   description: 'Free Vue Tutorials!',
   themeConfig: {
     nav: [
-      // {
-      //   text: 'Podcast',
-      //   link: 'https://www.vuetifullife.com/podcast'
-      // },
+      {
+        text: 'Podcast',
+        link: '/podcast/'
+      },
       {
         text: 'Social',
         items: [
